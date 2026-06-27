@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Saidbek
 
-<!--
-**rixsitillayevsaidbek88-svg/rixsitillayevsaidbek88-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Full Stack Developer from Uzbekistan 🇺🇿</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+React+%7C+Next.js;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+* 💼 Full Stack Web Developer
+* 🌱 Learning Advanced Backend & Cloud
+* ⚡ Building scalable web applications
+* 🎯 Goal: Become a Senior Software Engineer
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rixsitillayevsaidbek88-svg\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rixsitillayevsaidbek88-svg\&layout=compact\&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=rixsitillayevsaidbek88-svg\&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=rixsitillayevsaidbek88-svg\&theme=tokyonight\&row=1)
+
+---
+
+## 🌍 Connect with Me
+
+* Telegram: @rixsitillayev_966
+* Email: [rixsitillayevsaidbek@gmail.com](mailto:your@email.com)
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
+
