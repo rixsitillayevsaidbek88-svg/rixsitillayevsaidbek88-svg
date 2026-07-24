@@ -1,253 +1,134 @@
-You are the world's best GitHub Profile Designer, Creative UI/UX Designer, Motion Designer, Open Source Expert and Senior Frontend Developer.
+Sen dunyodagi eng kuchli GitHub Profile README dizaynerisan.
 
-Create a WORLD CLASS GitHub Profile README.
+Menga oddiy README yaratma.
 
-The README should look like a premium portfolio website, not a normal GitHub profile.
+Menga premium darajadagi, zamonaviy va professional GitHub profil yarat.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GitHub profilimni ochgan odam birinchi 5 soniyada kuchli taassurot olishi kerak. Dizayn minimalistik, qimmat va zamonaviy ko'rinsin. Ortiqcha emoji, keraksiz bezaklar va bolalarcha dizayn ishlatma.
 
-🌌 DESIGN
+# Ma'lumotlar
 
-Dark Theme
+Ism: Saidbek Rixsitillayev
 
-Glassmorphism
+GitHub Username: rixsitillayevsaidbek88-svg
 
-Blue + Purple Neon
+Davlat: O'zbekiston
 
-Modern
+Kasb: Backend Developer
 
-Minimal
+Asosiy texnologiyalar:
 
-Professional
+- Python
+- Django
+- FastAPI
+- PostgreSQL
+- MySQL
+- SQLite
+- Docker
+- Linux
+- Git
+- GitHub
+- REST API
 
-Smooth Animations
+Hozir o'rganayotganlar:
 
-Responsive
+- TypeScript
+- React
 
-Beautiful SVG Animations
+# Dizayn
 
-Animated Background
+Dizayn quyidagilardan ilhom olsin:
 
-Floating Effects
+- Apple
+- Stripe
+- Vercel
+- Linear
+- GitHub
 
-Premium Layout
+Asosiy ranglar:
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- #020617
+- #0F172A
+- #2563EB
+- #06B6D4
+- #FFFFFF
 
-🇺🇿 LANGUAGE
+Minimalistik bo'lsin.
 
-The entire README must be written in UZBEK.
+Glassmorphism ishlatilishi mumkin.
 
-Technology names (Python, PostgreSQL, Docker...) remain in English.
+Ko'k gradientlardan foydalan.
 
-Everything else must be written in beautiful Uzbek.
+Professional tipografiya ishlat.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Har bir bo'lim orasida chiroyli ajratgich bo'lsin.
 
-At the top create an animated typing header saying
+# README tarkibi
 
-👋 Assalomu alaykum!
+1. Premium Hero Section
 
-Xush kelibsiz mening GitHub profilimga!
+- Animatsiyali Typing SVG
+- Ismim katta harflarda
+- Backend Developer yozuvi
+- Qisqa professional slogan
 
-Men Rixsitillayev Saidbekman
+2. About Me
 
-15 yoshdaman
+Qisqa va professional.
 
-O'zbekistondanman 🇺🇿
+3. Tech Stack
 
-Kelajakdagi Professional Full Stack Developer
+Backend
 
-Do not stop there.
+Database
 
-Continue with beautiful animated typing effects.
+Tools
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Learning
 
-👨‍💻 MEN HAQIMDA
+Faqat chiroyli badge va ikonkalardan foydalan.
 
-Create a beautiful section.
+4. GitHub Analytics
 
-Include:
+- GitHub Stats
+- Streak Stats
+- Top Languages
+- Activity Graph
 
-👤 Ism:
-Rixsitillayev Saidbek
+5. Featured Projects
 
-🎂 Yosh:
-15
+Quyidagi loyihalar uchun premium kartalar tayyorla:
 
-🌍 Davlat:
-O'zbekiston 🇺🇿
+- School Management System
+- ERP System
+- Telegram Bot
+- Portfolio Website
 
-🕌 Millat:
-O'zbek
+6. Current Focus
 
-💻 Kasb:
-Full Stack Developer
+Hozir nimalarga e'tibor qaratayotganim.
 
-🚀 Asosiy yo'nalish:
-Backend Development
+7. Connect With Me
 
-❤️ Qiziqishlar:
+- Telegram
+- Email
 
-Python
+8. Professional Footer
 
-Django
+Gradient va SVG Wave bilan tugasin.
 
-PostgreSQL
+# Muhim talablar
 
-Docker
+- Faqat GitHub qo'llab-quvvatlaydigan texnologiyalardan foydalan.
+- Markdown + HTML + SVG kombinatsiyasidan foydalan.
+- Typing SVG ishlat.
+- GitHub Readme Stats ishlat.
+- Activity Graph ishlat.
+- Profile Views Counter ishlat.
+- Kod toza va tartibli bo'lsin.
+- README mobil qurilmalarda ham yaxshi ko'rinsin.
+- Ortiqcha matn yozma.
+- Emoji juda kam ishlat.
+- Natija professional backend dasturchi profiliga mos bo'lsin.
 
-Linux
-
-Open Source
-
-Artificial Intelligence
-
-Web Development
-
-Create this section beautifully using cards and icons.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🛠 MEN BILADIGAN TEXNOLOGIYALAR
-
-Show animated icons for
-
-Python
-
-PostgreSQL
-
-SQLite3
-
-MySQL
-
-Django
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Docker
-
-Git
-
-GitHub
-
-Linux
-
-VS Code
-
-Use skillicons.dev
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📊 GITHUB
-
-Include
-
-Animated GitHub Stats
-
-GitHub Streak
-
-Top Languages
-
-Contribution Graph
-
-GitHub Trophy
-
-Activity Graph
-
-Snake Animation
-
-3D Contribution Calendar
-
-Visitor Counter
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎯 MAQSADLARIM
-
-Write an inspiring section in Uzbek.
-
-Mention that I want to become a professional Full Stack Developer, build enterprise-level systems, contribute to Open Source, learn AI, and create useful software for people.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-💼 LOYIHALARIM
-
-Create a stylish section for future projects.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📫 BOG'LANISH
-
-Telegram
-
-@rixsitillayev_966
-
-Phone
-
-+998 88 656 66 01
-
-Make these beautiful glowing buttons.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✨ EXTRA PREMIUM FEATURES
-
-Animated Wave Header
-
-Animated Footer
-
-Typing Animation
-
-Glass Cards
-
-Gradient Borders
-
-Hover Animations
-
-Neon Effects
-
-Coding GIF
-
-Random Programming Quotes
-
-GitHub Badges
-
-Professional Dividers
-
-SVG Decorations
-
-Smooth Sections
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-COLORS
-
-#000000
-
-#00BFFF
-
-#8A2BE2
-
-#00FFFF
-
-#FFFFFF
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-The README should be over 700 lines.
-
-Everything must be centered.
-
-Every section should have beautiful icons.
-
-Every section should be animated.
-
-The profile should look better than 99.9% of GitHub profiles.
-
-Generate ONLY the complete README.md code.
+Faqat tayyor README.md kodini bitta markdown code block ichida chiqar. Hech qanday izoh yoki tushuntirish yozma.
