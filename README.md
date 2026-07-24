@@ -1,134 +1,61 @@
-Sen dunyodagi eng kuchli GitHub Profile README dizaynerisan.
+# ANIMATSIYALAR (GitHub qo'llab-quvvatlaydigan)
 
-Menga oddiy README yaratma.
+README statik ko'rinmasin.
 
-Menga premium darajadagi, zamonaviy va professional GitHub profil yarat.
+Quyidagi animatsiyalarni ishlat:
 
-GitHub profilimni ochgan odam birinchi 5 soniyada kuchli taassurot olishi kerak. Dizayn minimalistik, qimmat va zamonaviy ko'rinsin. Ortiqcha emoji, keraksiz bezaklar va bolalarcha dizayn ishlatma.
+✅ Custom Animated SVG Hero Banner
+- Gradient Animation
+- Aurora Background
+- Floating Shapes
+- Moving Particles
+- Animated Grid
+- Blur Glow
+- Animated Border
+- Wave Animation
 
-# Ma'lumotlar
+✅ Readme Typing SVG
 
-Ism: Saidbek Rixsitillayev
+✅ Snake Contribution Animation
 
-GitHub Username: rixsitillayevsaidbek88-svg
+✅ GitHub Activity Graph Animation
 
-Davlat: O'zbekiston
+✅ Animated Gradient Divider SVG
 
-Kasb: Backend Developer
+✅ Animated Profile Views Counter
 
-Asosiy texnologiyalar:
+✅ Dynamic GitHub Stats
 
-- Python
-- Django
-- FastAPI
-- PostgreSQL
-- MySQL
-- SQLite
-- Docker
-- Linux
-- Git
-- GitHub
-- REST API
+✅ Dynamic Streak Stats
 
-Hozir o'rganayotganlar:
+✅ Dynamic Top Languages
 
-- TypeScript
-- React
+✅ Animated Technology Icons (SVG)
 
-# Dizayn
+✅ Animated Project Cards (SVG hover uslubida)
 
-Dizayn quyidagilardan ilhom olsin:
+✅ Animated Footer Wave
 
-- Apple
-- Stripe
-- Vercel
-- Linear
-- GitHub
+Har bir bo'lim orasida animatsiyali SVG separator bo'lsin.
 
-Asosiy ranglar:
+SVG ichida quyidagi elementlardan foydalan:
 
-- #020617
-- #0F172A
-- #2563EB
-- #06B6D4
-- #FFFFFF
+- <animate>
+- <animateTransform>
+- <animateMotion>
+- <linearGradient>
+- <radialGradient>
+- <feGaussianBlur>
+- <feDropShadow>
+- <mask>
+- <filter>
 
-Minimalistik bo'lsin.
+Barcha SVG elementlari silliq va premium animatsiyaga ega bo'lsin.
 
-Glassmorphism ishlatilishi mumkin.
+Hech qanday statik banner ishlatma.
 
-Ko'k gradientlardan foydalan.
+Hech qanday oddiy matn ishlatma.
 
-Professional tipografiya ishlat.
+README Apple + Vercel + Linear darajasidagi premium landing page ko'rinishida bo'lsin.
 
-Har bir bo'lim orasida chiroyli ajratgich bo'lsin.
-
-# README tarkibi
-
-1. Premium Hero Section
-
-- Animatsiyali Typing SVG
-- Ismim katta harflarda
-- Backend Developer yozuvi
-- Qisqa professional slogan
-
-2. About Me
-
-Qisqa va professional.
-
-3. Tech Stack
-
-Backend
-
-Database
-
-Tools
-
-Learning
-
-Faqat chiroyli badge va ikonkalardan foydalan.
-
-4. GitHub Analytics
-
-- GitHub Stats
-- Streak Stats
-- Top Languages
-- Activity Graph
-
-5. Featured Projects
-
-Quyidagi loyihalar uchun premium kartalar tayyorla:
-
-- School Management System
-- ERP System
-- Telegram Bot
-- Portfolio Website
-
-6. Current Focus
-
-Hozir nimalarga e'tibor qaratayotganim.
-
-7. Connect With Me
-
-- Telegram
-- Email
-
-8. Professional Footer
-
-Gradient va SVG Wave bilan tugasin.
-
-# Muhim talablar
-
-- Faqat GitHub qo'llab-quvvatlaydigan texnologiyalardan foydalan.
-- Markdown + HTML + SVG kombinatsiyasidan foydalan.
-- Typing SVG ishlat.
-- GitHub Readme Stats ishlat.
-- Activity Graph ishlat.
-- Profile Views Counter ishlat.
-- Kod toza va tartibli bo'lsin.
-- README mobil qurilmalarda ham yaxshi ko'rinsin.
-- Ortiqcha matn yozma.
-- Emoji juda kam ishlat.
-- Natija professional backend dasturchi profiliga mos bo'lsin.
-
-Faqat tayyor README.md kodini bitta markdown code block ichida chiqar. Hech qanday izoh yoki tushuntirish yozma.
+GitHub README qo'llab-quvvatlaydigan barcha animatsiyalardan maksimal darajada foydalan.
