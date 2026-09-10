@@ -1,1 +1,84 @@
+name: 🐍 Generate Contribution Snake
 
+on:
+
+  # Har 12 soatda avtomatik ishlaydi
+  schedule:
+
+    - cron: "0 */12 * * *"
+
+
+  # Qo'lda ishga tushirish
+  workflow_dispatch:
+
+
+  # main branch'ga push bo'lganda
+  push:
+
+    branches:
+
+      - main
+      - master
+
+
+# ==========================================================
+# PERMISSIONS
+# ==========================================================
+
+permissions:
+
+  contents: write
+
+
+# ==========================================================
+# JOB
+# ==========================================================
+
+jobs:
+
+  generate:
+
+    name: 🐍 Generate Snake
+
+    runs-on: ubuntu-latest
+
+
+    steps:
+
+
+      # ====================================================
+      # GENERATE
+      # ====================================================
+
+      - name: 🐍 Generate GitHub Contribution Snake
+
+        uses: Platane/snk@v3
+
+        with:
+
+          github_user_name: ${{ github.repository_owner }}
+
+          outputs: |
+
+            dist/github-contribution-grid-snake.svg
+
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+
+      # ====================================================
+      # PUBLISH
+      # ====================================================
+
+      - name: 🚀 Publish Snake
+
+        uses: crazy-max/ghaction-github-pages@v4
+
+        with:
+
+          build_dir: dist
+
+          target_branch: output
+
+        env:
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
