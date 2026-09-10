@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ========================================================= -->
-<!--                        HEADER                              -->
+<!--                    PROFILE HEADER                         -->
 <!-- ========================================================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=SAIDBEK%20RIXSITILLAYEV&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Python%20%7C%20Django&descAlignY=57&descSize=20&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=SAIDBEK%20RIXSITILLAYEV&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=BACKEND%20DEVELOPER%20%7C%20PYTHON%20%7C%20DJANGO&descAlignY=57&descSize=20&animation=fadeIn"
   width="100%"
   alt="Saidbek Rixsitillayev"
 />
@@ -19,21 +19,29 @@
 
 <br/><br/>
 
+<!-- ========================================================= -->
+<!--                         SOCIALS                           -->
+<!-- ========================================================= -->
+
 <a href="https://github.com/rixsitillayevsaidbek88-svg">
-<img
-  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://t.me/rixsitillayev_966">
-<img
-  src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
-  alt="Telegram"
-/>
+  <img
+    src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+    alt="Telegram"
+  />
 </a>
 
 <br/><br/>
+
+<!-- ========================================================= -->
+<!--                         BADGES                            -->
+<!-- ========================================================= -->
 
 <img
   src="https://komarev.com/ghpvc/?username=rixsitillayevsaidbek88-svg&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6"
@@ -41,12 +49,12 @@
 />
 
 <img
-  src="https://img.shields.io/github/followers/rixsitillayevsaidbek88-svg?label=FOLLOWERS&style=for-the-badge&color=236ad3"
+  src="https://img.shields.io/github/followers/rixsitillayevsaidbek88-svg?label=FOLLOWERS&style=for-the-badge"
   alt="Followers"
 />
 
 <img
-  src="https://img.shields.io/github/stars/rixsitillayevsaidbek88-svg?label=STARS&style=for-the-badge&color=f5c542"
+  src="https://img.shields.io/github/stars/rixsitillayevsaidbek88-svg?label=STARS&style=for-the-badge"
   alt="Stars"
 />
 
@@ -54,7 +62,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 GitHub Contribution Snake
 
 <div align="center">
 
@@ -64,21 +72,21 @@
 
 <picture>
 
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/rixsitillayevsaidbek88-svg/rixsitillayevsaidbek88-svg/output/github-contribution-grid-snake-dark.svg"
-/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rixsitillayevsaidbek88-svg/rixsitillayevsaidbek88-svg/output/github-contribution-grid-snake-dark.svg"
+  />
 
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/rixsitillayevsaidbek88-svg/rixsitillayevsaidbek88-svg/output/github-contribution-grid-snake.svg"
-/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rixsitillayevsaidbek88-svg/rixsitillayevsaidbek88-svg/output/github-contribution-grid-snake.svg"
+  />
 
-<img
-src="https://raw.githubusercontent.com/rixsitillayevsaidbek88-svg/rixsitillayevsaidbek88-svg/output/github-contribution-grid-snake.svg"
-width="100%"
-alt="GitHub Contribution Snake"
-/>
+  <img
+    src="https://raw.githubusercontent.com/rixsitillayevsaidbek88-svg/rixsitillayevsaidbek88-svg/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
 
 </picture>
 
@@ -86,17 +94,15 @@ alt="GitHub Contribution Snake"
 
 ---
 
-# 🎮 Animated Snake
+# 🎮 Animated Snake Game
 
 <div align="center">
 
 <img
-src="./snake.svg"
-width="100%"
-alt="Animated Snake Game"
+  src="./snake.svg"
+  width="100%"
+  alt="Animated Snake"
 />
-
-<br/>
 
 ### 🐍 PLAY • EAT • GROW • REPEAT
 
@@ -104,17 +110,23 @@ alt="Animated Snake Game"
 
 ---
 
-# 👋 Hello, I'm Saidbek
+# 👋 Salom, men Saidbek
 
 <div align="center">
 
-## 🇺🇿 Saidbek Rixsitillayev
+# 🇺🇿 Saidbek Rixsitillayev
 
 ### 💻 Backend Developer
 
 **Python • Django • PostgreSQL • MySQL • SQLite • Docker**
 
 </div>
+
+Men O‘zbekistondan bo‘lgan **Backend Developer**man.
+
+Asosan Python va Django yordamida real loyihalar, REST API'lar, Telegram botlar, CRM/ERP tizimlari va ma'lumotlar bazasi bilan ishlaydigan backend platformalar yaratishga qiziqaman.
+
+Mening maqsadim — shunchaki kod yozish emas, balki **real muammolarni hal qiladigan, xavfsiz, tezkor va kengaytirish mumkin bo‘lgan tizimlar** yaratish.
 
 ---
 
@@ -129,7 +141,7 @@ class SaidbekRixsitillayev:
 
     country = "Uzbekistan"
 
-    main_language = "Python"
+    primary_language = "Python"
 
     backend = [
         "Django",
@@ -153,12 +165,14 @@ class SaidbekRixsitillayev:
     ]
 
     interests = [
-        "Backend Development",
-        "REST API",
+        "Backend Engineering",
         "Database Architecture",
+        "REST API Development",
         "Telegram Bots",
-        "Automation",
-        "Scalable Systems",
+        "Business Automation",
+        "CRM Systems",
+        "ERP Systems",
+        "Scalable Applications",
     ]
 
     philosophy = "Learning. Building. Improving."
